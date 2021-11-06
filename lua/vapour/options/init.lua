@@ -23,7 +23,7 @@ vim.o.scrolloff = 3
 vim.o.sidescrolloff = 5
 vim.o.mouse = "a"
 
-vim.wo.wrap = false
+vim.wo.wrap = true
 vim.wo.number = true
 vim.wo.cursorline = true
 vim.wo.signcolumn = "yes"
