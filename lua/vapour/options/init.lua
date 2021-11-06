@@ -56,4 +56,3 @@ vim.g.loaded_tutor_mode_plugin = 1
 vim.g.loaded_remote_plugins = 1
 
 vim.opt.dictionary:append("/usr/share/dict/words")
-sgs
